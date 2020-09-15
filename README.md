@@ -49,6 +49,7 @@
 - Multi Currency.
 - Multi Language.
 - Responsive design.
+- And many more feature ...
 
 ## More features & Demo
 
