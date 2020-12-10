@@ -54,8 +54,8 @@
 ## More features & Demo
 
 - Extension details : https://www.magetop.com/magento-2-booking-theme.html
-- Frontend Demo : https://projects.magetop.com/kien/bk_theme
-- Backend demo : https://projects.magetop.com/kien/bk_theme/admin
+- Frontend Demo : https://livedemo.magetop.com/bk_theme
+- Backend demo : https://livedemo.magetop.com/bk_theme/admin
 
 ## Support & Contact info
 
