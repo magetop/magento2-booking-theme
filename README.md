@@ -51,13 +51,13 @@
 - Responsive design.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-booking-theme.html
 - Frontend demo : https://livedemo.magetop.com/bk_theme
 - Backend demo : https://livedemo.magetop.com/bk_theme/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
